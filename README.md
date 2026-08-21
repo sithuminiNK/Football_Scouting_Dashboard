@@ -45,7 +45,7 @@ No installation needed — this is a single self-contained HTML file.
 1. Download `index.html` from this repository
 2. Open it directly in any modern browser (Chrome, Edge, Firefox)
 
-Or just use the **[live demo](https://sithuminiNK.github.io/football-scouting-dashboard/)** link above.
+Or just use the **[live demo](https://sithuminiNK.github.io/Football_Scouting_Dashboard/)** link above.
 
 ## 📌 What I Learned
 
