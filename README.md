@@ -55,7 +55,3 @@ Or just use the **[live demo](https://sithuminiNK.github.io/football-scouting-da
 - Designing a cohesive visual theme with a CSS custom-properties design system
 - Debugging a real deployment issue (an external CDN script failing to load) by bundling the dependency locally instead
 
-## 👤 Author
-
-**Nirasha** — BSc (Hons) IT, Data Science, SLIIT
-GitHub: [@sithuminiNK](https://github.com/sithuminiNK)
