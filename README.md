@@ -2,7 +2,7 @@
 
 An interactive, single-file HTML dashboard for exploring 20,000+ professional footballers (men's and women's football) using the SoFIFA / FIFA 24 player ratings dataset. Built with vanilla JavaScript and Chart.js — no backend or build step required.
 
-**[🔴 Live Demo](https://sithuminiNK.github.io/football-scouting-dashboard/)**
+**[🔴 Live Demo](https://sithuminiNK.github.io/Football_Scouting_Dashboard/)**
 
 ![Dashboard Preview](preview.png)
 
